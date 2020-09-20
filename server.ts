@@ -4,8 +4,8 @@ import express from 'express';
 import { buildSchema } from 'type-graphql';
 import { ApolloServer } from "apollo-server-express";
 
-import { BooksResolver } from './resolvers/books';
-import { AuthorResolver } from './resolvers/authors';
+import { BooksResolver } from './src/resolvers/books';
+import { AuthorResolver } from './src/resolvers/authors';
 
 (async () => {
     const app = express();
