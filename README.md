@@ -1,4 +1,4 @@
-# 👀 GraphQL + Typescript
+# 👀🐧 GraphQL + Typescript
 
 ###### Tiny server with graphql, typescript and typeorm
 
